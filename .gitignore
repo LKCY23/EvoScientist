@@ -30,6 +30,7 @@ bridge/package-lock.json
 .codex/
 .cursorrules
 .ruff_cache/
+.worktrees/
 
 # Project specific
 .langgraph_api/
